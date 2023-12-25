@@ -8,3 +8,4 @@
 | Introduction to Pie, Box, Scatter and Bubble Plots | [Pie-Box-Scatter-Bubble-Plots.ipynb](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Pie-Box-Scatter-Bubble-Plots.ipynb) | [Preprocessed Canada Immigration Dataset](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/Canada_intro_matplotlib_lineplot.csv)
 | Ploting Directly in Matplotlib | [Plotting-directly-with-Matplotlib.ipynb](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Plotting-directly-with-Matplotlib.ipynb) | [Preprocessed Canada Immigration Dataset](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/Canada_intro_matplotlib_lineplot.csv)
 | Generating Map plots in python | | |
+| Interactive plots using plotly | | |
