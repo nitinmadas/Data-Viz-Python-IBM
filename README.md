@@ -11,4 +11,4 @@
 | Interactive plots using plotly |[Plotly_Basics.ipynb](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Plotly_Basics.ipynb) | [airline_data](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/airline_data.csv) |
 | Introduction to Dash | [dash_basics.py](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/dash_basics.py) | [airline_data](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/airline_data.csv)
 | Dash Interactivity | [dash_interactivity.py](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/dash_interactivity.py) | [airline_data](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/airline_data.csv)
-| Flight Delay Dashboard | [flight_delay.py](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/flight_delay.py) | [airline_data](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/airline_data.csv)
+| Flight Delay Dashboard | [flight_delay_dashboard.py](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/flight_delay_dashboard.py) | [airline_data](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/airline_data.csv)
