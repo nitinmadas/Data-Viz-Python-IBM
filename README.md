@@ -12,3 +12,8 @@
 | Introduction to Dash | [dash_basics.py](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/dash_basics.py) | [airline_data](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/airline_data.csv)
 | Dash Interactivity | [dash_interactivity.py](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/dash_interactivity.py) | [airline_data](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/airline_data.csv)
 | Flight Delay Dashboard | [flight_delay_dashboard.py](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/flight_delay_dashboard.py) | [airline_data](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Datasets/airline_data.csv)
+| Datavisualization Practice Assignment | [Practice_Assignment_Part1.ipynb](https://github.com/nitinmadas/Data-Viz-Python-IBM/blob/main/Practice_Assignment_Part1.ipynb) | [Historical_Wildfires](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Historical_Wildfires.csv)
+
+
+
+<!-- [historical_automobile_sales](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv) -->
